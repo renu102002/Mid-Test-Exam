@@ -72,6 +72,7 @@ int main() {
     centralStation->print();
 
     // Clean up allocated memory
+    //binary tree
     delete centralStation;
 
     return 0;

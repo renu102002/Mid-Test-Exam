@@ -71,6 +71,7 @@ int main() {
     contacts.displayContacts();
 
     // Destructor is automatically called when 'contacts' goes out of scope
+    //linked list
 
     return 0;
 }
